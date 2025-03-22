@@ -1,0 +1,5 @@
+# currently using time machine theme but back up option is 
+# pages-themes.github.io/cayman/ cayman theme
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
