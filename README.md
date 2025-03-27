@@ -72,12 +72,13 @@ Now, we plot them all on one plot to get an initial idea of their simialrities.
 However, this isn't very helpful since the measures are very different. 
 So, we turn to calculating the Pearson coefficient between time and each measurement type. 
 
-<iframe
+![Confusion matrix](plots/confusion_mat.png "Confusion Matrix with Pearson Correlation")
+<!-- <iframe
   src="plots/confusion_mat.png"
   width="800"
   height="450"
   frameborder="0"
-></iframe>
+></iframe> -->
 
 A peason coefficient above 0.5 is considered significant. 
 Using the correlation matrix, we can see there isn't much correlation between the measures. However, PM 2.5 is highly correlated with time. We will use this to inform our further analysis. 
@@ -85,7 +86,7 @@ Using the correlation matrix, we can see there isn't much correlation between th
 ## Research Question 2
 
 Is the average Fine Particle values decreasing for all of New York?
-Knowing PM2.5 correlated with time, is there a specific trend that is presen tin the data. 
+Knowing PM2.5 correlated with time, is there a specific trend that is present in the data. 
 
 ### Methodology and Findings
 
