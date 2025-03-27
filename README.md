@@ -41,7 +41,7 @@ The most vital column are the `Name` column and `Data Value` column since these 
 A central column to my analysis is the `Geo Place Name` column which names a general neighborhood in New York. There are slightly different names that require data cleaning to prevent double counting. 
 
 <iframe
-  src="nyc_neighborhoods_map.html"
+  src="plots/nyc_neighborhoods_map.html"
   width="800"
   height="450"
   frameborder="0"
@@ -57,13 +57,13 @@ It might be interesting if they each peak at certain times or if any patterns em
 
 ### Methodology and Findings
 
-First, for this question, we need to aggregate all measure for teh entire state. We do this by  taking teh average of every measure since the timing line up. 
+First, for this question, we need to aggregate all measure for the entire state. We do this by  taking the average of every measure since the timing line up. 
 
 Now, we plot them all on one plot to get an initial idea of their simialrities.
 
 
 <iframe
-  src="pm_a2_o2.html"
+  src="plots/pm_a2_o2.html"
   width="800"
   height="450"
   frameborder="0"
@@ -73,7 +73,7 @@ However, this isn't very helpful since the measures are very different.
 So, we turn to calculating the Pearson coefficient between time and each measurement type. 
 
 <iframe
-  src="confusion_mat.png"
+  src="plots/confusion_mat.png"
   width="800"
   height="450"
   frameborder="0"
@@ -92,7 +92,7 @@ Knowing PM2.5 correlated with time, is there a specific trend that is presen tin
 Firstly, let just plot the PM 2.5 for every neighbordhood. 
 
 <iframe
-  src="all_fm_per_state.html"
+  src="plots/all_fm_per_state.html"
   width="800"
   height="450"
   frameborder="0"
@@ -101,7 +101,7 @@ Firstly, let just plot the PM 2.5 for every neighbordhood.
 Even with just a basic plot, we can see there is a downwards trend in the PM 2.5 values. So, let perform a linear regression on them to find the line of best fit.
 
 <iframe
-  src="base_model_test_p3a.html"
+  src="plots/base_model_test_p3a.html"
   width="800"
   height="450"
   frameborder="0"
