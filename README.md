@@ -13,14 +13,14 @@ The analysis presented was originally created as the data analysis project as pa
 
 ## Motivation
 
-The Air Quality across the world is worsening. As discussed in an article by [PBS](https://www.pbs.org/newshour/show/why-air-quality-is-getting-worse-in-many-places-and-how-it-puts-human-health-at-risk), air quality is worsening all across and this can pose health risks to people who live in highly polluted areas. For example, it is stated "It's responsible for nearly 7 million premature deaths every year worldwide."
+The Air Quality across the world is worsening. As discussed in an article by [PBS](<https://www.pbs.org/newshour/show/why-air-quality-is-getting-worse-in-many-places-and-how-it-puts-human-health-at-risk>), air quality is worsening all across and this can pose health risks to people who live in highly polluted areas. For example, it is stated "It's responsible for nearly 7 million premature deaths every year worldwide."
 
-However, according to the [New York government](https://www.nyc.gov/site/doh/health/health-topics/air-quality-air-pollution-protection.page
-https://www.publicnewsservice.org/2024-06-25/air-pollution/report-air-quality-worsens-in-nyc-environmental-justice-areas/a90998-1), “New York City air quality is improving, but our health impact estimates from 2015 to 2017 found that fine particle pollution alone each year caused:
+However, according to the [New York government](<https://www.nyc.gov/site/doh/health/health-topics/air-quality-air-pollution-protection.page>), “New York City air quality is improving, but our health impact estimates from 2015 to 2017 found that fine particle pollution alone each year caused:
 At least 2,000 deaths
 About 1,400 hospital admissions for lung and heart conditions
 3,750 emergency department admissions for asthma based on levels.”
-Interestingly, they state here that the air quality is getting better in New York. This is unlike many places in the world as mentioned in the first article. 
+Interestingly, they state here that the air quality is getting better in New York. This is unlike many places in the world as mentioned in the first article. In addition, there are conflicting reports. This [Report Air Quality Worsens in NYC Environmental Justice Areas](
+<https://www.publicnewsservice.org/2024-06-25/air-pollution/report-air-quality-worsens-in-nyc-environmental-justice-areas/a90998-1>) states differently. 
 
 More infomration about pollution's impact [here](https://www.lung.org/research/sota/key-findings).
 
