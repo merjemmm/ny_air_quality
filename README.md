@@ -59,7 +59,7 @@ It might be interesting if they each peak at certain times or if any patterns em
 
 First, for this question, we need to aggregate all measure for the entire state. We do this by  taking the average of every measure since the timing line up. 
 
-Now, we plot them all on one plot to get an initial idea of their simialrities.
+Now, we plot them all on one plot to get an initial idea of their similarities.
 
 
 <iframe
